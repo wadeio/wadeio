@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @awade
-- 📫 email: 177188505@qq.com
-- ⚡ Fun fact: I am a student, not professional at all.
+- 👋 Hi, I’m Andy Wade
+- 📫 email: x.andy.wadeio@gmail.com
+I am learning rust.
+I Just a student. One of my dreams is making contributions to big projects. I will work hard on it.
 
 <!---
 xiaowangAndyismengxin/xiaowangAndyismengxin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
